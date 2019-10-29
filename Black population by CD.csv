@@ -1,0 +1,587 @@
+﻿GeoCode,GeoName,Criteria,ID,Total,Male,Female
+1001,Division No. 1,Black,1327,1875,980,895
+1001,Division No. 1,"Black, n.o.s.",1539,45,25,20
+1002,Division No. 2,Black,1327,30,15,20
+1002,Division No. 2,"Black, n.o.s.",1539,0,0,0
+1003,Division No. 3,Black,1327,25,0,15
+1003,Division No. 3,"Black, n.o.s.",1539,0,0,0
+1004,Division No. 4,Black,1327,25,15,10
+1004,Division No. 4,"Black, n.o.s.",1539,0,0,0
+1005,Division No. 5,Black,1327,95,40,55
+1005,Division No. 5,"Black, n.o.s.",1539,0,0,0
+1006,Division No. 6,Black,1327,80,45,35
+1006,Division No. 6,"Black, n.o.s.",1539,0,0,0
+1007,Division No. 7,Black,1327,65,25,40
+1007,Division No. 7,"Black, n.o.s.",1539,10,0,0
+1008,Division No. 8,Black,1327,70,25,45
+1008,Division No. 8,"Black, n.o.s.",1539,0,0,0
+1009,Division No. 9,Black,1327,35,15,15
+1009,Division No. 9,"Black, n.o.s.",1539,10,10,10
+1010,Division No. 10,Black,1327,55,35,20
+1010,Division No. 10,"Black, n.o.s.",1539,0,0,10
+1011,Division No. 11,Black,1327,0,0,0
+1011,Division No. 11,"Black, n.o.s.",1539,0,0,0
+1101,Kings,Black,1327,40,20,20
+1101,Kings,"Black, n.o.s.",1539,10,10,10
+1102,Queens,Black,1327,660,340,320
+1102,Queens,"Black, n.o.s.",1539,25,10,10
+1103,Prince,Black,1327,120,65,60
+1103,Prince,"Black, n.o.s.",1539,0,0,0
+1201,Shelburne,Black,1327,215,80,140
+1201,Shelburne,"Black, n.o.s.",1539,0,0,10
+1202,Yarmouth,Black,1327,480,250,235
+1202,Yarmouth,"Black, n.o.s.",1539,115,55,55
+1203,Digby,Black,1327,385,175,205
+1203,Digby,"Black, n.o.s.",1539,65,15,45
+1204,Queens,Black,1327,145,70,70
+1204,Queens,"Black, n.o.s.",1539,20,10,0
+1205,Annapolis,Black,1327,180,75,100
+1205,Annapolis,"Black, n.o.s.",1539,20,10,20
+1206,Lunenburg,Black,1327,135,75,60
+1206,Lunenburg,"Black, n.o.s.",1539,20,10,10
+1207,Kings,Black,1327,740,385,350
+1207,Kings,"Black, n.o.s.",1539,90,55,35
+1208,Hants,Black,1327,675,360,310
+1208,Hants,"Black, n.o.s.",1539,55,35,20
+1209,Halifax,Black,1327,15090,7305,7785
+1209,Halifax,"Black, n.o.s.",1539,1460,670,790
+1210,Colchester,Black,1327,865,490,370
+1210,Colchester,"Black, n.o.s.",1539,130,50,75
+1211,Cumberland,Black,1327,435,185,245
+1211,Cumberland,"Black, n.o.s.",1539,35,20,15
+1212,Pictou,Black,1327,685,380,300
+1212,Pictou,"Black, n.o.s.",1539,40,20,20
+1213,Guysborough,Black,1327,235,115,120
+1213,Guysborough,"Black, n.o.s.",1539,15,10,10
+1214,Antigonish,Black,1327,375,155,215
+1214,Antigonish,"Black, n.o.s.",1539,20,10,10
+1215,Inverness,Black,1327,100,40,60
+1215,Inverness,"Black, n.o.s.",1539,10,10,0
+1216,Richmond,Black,1327,35,30,10
+1216,Richmond,"Black, n.o.s.",1539,0,10,0
+1217,Cape Breton,Black,1327,1105,545,555
+1217,Cape Breton,"Black, n.o.s.",1539,150,75,80
+1218,Victoria,Black,1327,45,20,30
+1218,Victoria,"Black, n.o.s.",1539,10,0,0
+1301,Saint John,Black,1327,1435,690,745
+1301,Saint John,"Black, n.o.s.",1539,90,35,60
+1302,Charlotte,Black,1327,85,55,30
+1302,Charlotte,"Black, n.o.s.",1539,10,0,10
+1303,Sunbury,Black,1327,295,160,135
+1303,Sunbury,"Black, n.o.s.",1539,30,15,15
+1304,Queens,Black,1327,105,55,45
+1304,Queens,"Black, n.o.s.",1539,0,0,0
+1305,Kings,Black,1327,330,195,140
+1305,Kings,"Black, n.o.s.",1539,30,15,20
+1306,Albert,Black,1327,195,85,115
+1306,Albert,"Black, n.o.s.",1539,10,0,0
+1307,Westmorland,Black,1327,2340,1220,1120
+1307,Westmorland,"Black, n.o.s.",1539,50,20,30
+1308,Kent,Black,1327,125,55,75
+1308,Kent,"Black, n.o.s.",1539,15,0,15
+1309,Northumberland,Black,1327,125,70,55
+1309,Northumberland,"Black, n.o.s.",1539,10,10,0
+1310,York,Black,1327,1135,535,595
+1310,York,"Black, n.o.s.",1539,90,25,60
+1311,Carleton,Black,1327,165,90,75
+1311,Carleton,"Black, n.o.s.",1539,10,0,10
+1312,Victoria,Black,1327,20,20,10
+1312,Victoria,"Black, n.o.s.",1539,0,0,0
+1313,Madawaska,Black,1327,210,100,105
+1313,Madawaska,"Black, n.o.s.",1539,0,10,0
+1314,Restigouche,Black,1327,185,85,100
+1314,Restigouche,"Black, n.o.s.",1539,20,0,20
+1315,Gloucester,Black,1327,240,130,110
+1315,Gloucester,"Black, n.o.s.",1539,10,10,0
+2401,Les Îles-de-la-Madeleine,Black,1327,20,0,20
+2401,Les Îles-de-la-Madeleine,"Black, n.o.s.",1539,0,0,0
+2402,Le Rocher-Percé,Black,1327,35,25,10
+2402,Le Rocher-Percé,"Black, n.o.s.",1539,0,0,0
+2403,La Côte-de-Gaspé,Black,1327,60,25,35
+2403,La Côte-de-Gaspé,"Black, n.o.s.",1539,0,0,0
+2404,La Haute-Gaspésie,Black,1327,25,10,15
+2404,La Haute-Gaspésie,"Black, n.o.s.",1539,0,0,0
+2405,Bonaventure,Black,1327,0,0,10
+2405,Bonaventure,"Black, n.o.s.",1539,0,0,0
+2406,Avignon,Black,1327,40,20,20
+2406,Avignon,"Black, n.o.s.",1539,0,0,0
+2407,La Matapédia,Black,1327,15,10,0
+2407,La Matapédia,"Black, n.o.s.",1539,0,0,0
+2408,Matane,Black,1327,150,60,90
+2408,Matane,"Black, n.o.s.",1539,10,10,0
+2409,La Mitis,Black,1327,40,15,20
+2409,La Mitis,"Black, n.o.s.",1539,0,0,0
+2410,Rimouski-Neigette,Black,1327,315,215,105
+2410,Rimouski-Neigette,"Black, n.o.s.",1539,10,0,0
+2411,Les Basques,Black,1327,10,0,10
+2411,Les Basques,"Black, n.o.s.",1539,0,0,0
+2412,Rivière-du-Loup,Black,1327,105,55,50
+2412,Rivière-du-Loup,"Black, n.o.s.",1539,0,0,0
+2413,Témiscouata,Black,1327,20,10,15
+2413,Témiscouata,"Black, n.o.s.",1539,0,0,0
+2414,Kamouraska,Black,1327,50,20,25
+2414,Kamouraska,"Black, n.o.s.",1539,0,0,0
+2415,Charlevoix-Est,Black,1327,30,15,15
+2415,Charlevoix-Est,"Black, n.o.s.",1539,0,0,0
+2416,Charlevoix,Black,1327,20,10,0
+2416,Charlevoix,"Black, n.o.s.",1539,0,0,0
+2417,L'Islet,Black,1327,15,10,10
+2417,L'Islet,"Black, n.o.s.",1539,0,0,10
+2418,Montmagny,Black,1327,55,20,35
+2418,Montmagny,"Black, n.o.s.",1539,0,0,0
+2419,Bellechasse,Black,1327,320,160,165
+2419,Bellechasse,"Black, n.o.s.",1539,0,0,0
+2420,L'Île-d'Orléans,Black,1327,15,10,10
+2420,L'Île-d'Orléans,"Black, n.o.s.",1539,0,0,0
+2421,La Côte-de-Beaupré,Black,1327,105,45,60
+2421,La Côte-de-Beaupré,"Black, n.o.s.",1539,0,0,0
+2422,La Jacques-Cartier,Black,1327,150,75,75
+2422,La Jacques-Cartier,"Black, n.o.s.",1539,0,0,0
+2423,Québec,Black,1327,12730,6670,6055
+2423,Québec,"Black, n.o.s.",1539,130,75,55
+2425,Lévis,Black,1327,1035,545,490
+2425,Lévis,"Black, n.o.s.",1539,20,10,15
+2426,La Nouvelle-Beauce,Black,1327,115,65,50
+2426,La Nouvelle-Beauce,"Black, n.o.s.",1539,0,10,0
+2427,Robert-Cliche,Black,1327,115,85,30
+2427,Robert-Cliche,"Black, n.o.s.",1539,0,0,0
+2428,Les Etchemins,Black,1327,40,15,20
+2428,Les Etchemins,"Black, n.o.s.",1539,0,0,0
+2429,Beauce-Sartigan,Black,1327,170,90,75
+2429,Beauce-Sartigan,"Black, n.o.s.",1539,0,0,0
+2430,Le Granit,Black,1327,40,10,30
+2430,Le Granit,"Black, n.o.s.",1539,0,0,0
+2431,Les Appalaches,Black,1327,145,80,70
+2431,Les Appalaches,"Black, n.o.s.",1539,0,0,0
+2432,L'Érable,Black,1327,25,20,10
+2432,L'Érable,"Black, n.o.s.",1539,0,0,0
+2433,Lotbinière,Black,1327,65,25,40
+2433,Lotbinière,"Black, n.o.s.",1539,0,0,0
+2434,Portneuf,Black,1327,135,80,50
+2434,Portneuf,"Black, n.o.s.",1539,0,0,0
+2435,Mékinac,Black,1327,20,0,15
+2435,Mékinac,"Black, n.o.s.",1539,0,0,0
+2436,Shawinigan,Black,1327,235,130,110
+2436,Shawinigan,"Black, n.o.s.",1539,15,10,10
+2437,Francheville,Black,1327,1875,990,880
+2437,Francheville,"Black, n.o.s.",1539,25,20,10
+2438,Bécancour,Black,1327,60,30,30
+2438,Bécancour,"Black, n.o.s.",1539,0,0,0
+2439,Arthabaska,Black,1327,385,180,205
+2439,Arthabaska,"Black, n.o.s.",1539,10,10,0
+2440,Les Sources,Black,1327,45,20,25
+2440,Les Sources,"Black, n.o.s.",1539,0,0,0
+2441,Le Haut-Saint-François,Black,1327,50,35,15
+2441,Le Haut-Saint-François,"Black, n.o.s.",1539,0,0,0
+2442,Le Val-Saint-François,Black,1327,50,15,35
+2442,Le Val-Saint-François,"Black, n.o.s.",1539,0,0,0
+2443,Sherbrooke,Black,1327,3520,1745,1770
+2443,Sherbrooke,"Black, n.o.s.",1539,40,30,10
+2444,Coaticook,Black,1327,45,20,30
+2444,Coaticook,"Black, n.o.s.",1539,0,0,0
+2445,Memphrémagog,Black,1327,110,65,45
+2445,Memphrémagog,"Black, n.o.s.",1539,0,0,0
+2446,Brome-Missisquoi,Black,1327,200,120,80
+2446,Brome-Missisquoi,"Black, n.o.s.",1539,0,0,0
+2447,La Haute-Yamaska,Black,1327,890,435,455
+2447,La Haute-Yamaska,"Black, n.o.s.",1539,0,0,0
+2448,Acton,Black,1327,0,0,0
+2448,Acton,"Black, n.o.s.",1539,0,0,0
+2449,Drummond,Black,1327,700,390,310
+2449,Drummond,"Black, n.o.s.",1539,10,0,0
+2450,Nicolet-Yamaska,Black,1327,90,60,25
+2450,Nicolet-Yamaska,"Black, n.o.s.",1539,0,0,0
+2451,Maskinongé,Black,1327,75,40,35
+2451,Maskinongé,"Black, n.o.s.",1539,0,0,0
+2452,D'Autray,Black,1327,145,65,75
+2452,D'Autray,"Black, n.o.s.",1539,0,0,0
+2453,Pierre-De Saurel,Black,1327,265,95,170
+2453,Pierre-De Saurel,"Black, n.o.s.",1539,0,0,0
+2454,Les Maskoutains,Black,1327,1280,665,615
+2454,Les Maskoutains,"Black, n.o.s.",1539,0,0,0
+2455,Rouville,Black,1327,160,70,90
+2455,Rouville,"Black, n.o.s.",1539,0,0,0
+2456,Le Haut-Richelieu,Black,1327,845,445,405
+2456,Le Haut-Richelieu,"Black, n.o.s.",1539,35,10,25
+2457,La Vallée-du-Richelieu,Black,1327,1080,510,570
+2457,La Vallée-du-Richelieu,"Black, n.o.s.",1539,35,20,15
+2458,Longueuil,Black,1327,22080,10665,11420
+2458,Longueuil,"Black, n.o.s.",1539,255,110,145
+2459,Marguerite-D'Youville,Black,1327,720,340,380
+2459,Marguerite-D'Youville,"Black, n.o.s.",1539,0,0,0
+2460,L'Assomption,Black,1327,6650,3225,3430
+2460,L'Assomption,"Black, n.o.s.",1539,65,30,30
+2461,Joliette,Black,1327,515,250,265
+2461,Joliette,"Black, n.o.s.",1539,10,10,0
+2462,Matawinie,Black,1327,180,60,120
+2462,Matawinie,"Black, n.o.s.",1539,0,0,0
+2463,Montcalm,Black,1327,320,145,175
+2463,Montcalm,"Black, n.o.s.",1539,15,10,10
+2464,Les Moulins,Black,1327,9280,4560,4715
+2464,Les Moulins,"Black, n.o.s.",1539,10,0,10
+2465,Laval,Black,1327,32095,14875,17220
+2465,Laval,"Black, n.o.s.",1539,285,155,135
+2466,Montréal,Black,1327,180580,86145,94430
+2466,Montréal,"Black, n.o.s.",1539,2125,990,1135
+2467,Roussillon,Black,1327,6680,3350,3335
+2467,Roussillon,"Black, n.o.s.",1539,180,90,95
+2468,Les Jardins-de-Napierville,Black,1327,80,35,50
+2468,Les Jardins-de-Napierville,"Black, n.o.s.",1539,0,0,0
+2469,Le Haut-Saint-Laurent,Black,1327,90,35,55
+2469,Le Haut-Saint-Laurent,"Black, n.o.s.",1539,0,0,0
+2470,Beauharnois-Salaberry,Black,1327,295,145,150
+2470,Beauharnois-Salaberry,"Black, n.o.s.",1539,0,0,0
+2471,Vaudreuil-Soulanges,Black,1327,4255,2215,2035
+2471,Vaudreuil-Soulanges,"Black, n.o.s.",1539,55,30,25
+2472,Deux-Montagnes,Black,1327,2095,1040,1060
+2472,Deux-Montagnes,"Black, n.o.s.",1539,10,0,0
+2473,Thérèse-De Blainville,Black,1327,3130,1485,1650
+2473,Thérèse-De Blainville,"Black, n.o.s.",1539,20,15,0
+2474,Mirabel,Black,1327,495,280,220
+2474,Mirabel,"Black, n.o.s.",1539,10,10,0
+2475,La Rivière-du-Nord,Black,1327,1110,600,515
+2475,La Rivière-du-Nord,"Black, n.o.s.",1539,50,25,25
+2476,Argenteuil,Black,1327,165,75,90
+2476,Argenteuil,"Black, n.o.s.",1539,20,15,0
+2477,Les Pays-d'en-Haut,Black,1327,160,60,100
+2477,Les Pays-d'en-Haut,"Black, n.o.s.",1539,0,0,0
+2478,Les Laurentides,Black,1327,140,45,90
+2478,Les Laurentides,"Black, n.o.s.",1539,0,0,0
+2479,Antoine-Labelle,Black,1327,90,50,35
+2479,Antoine-Labelle,"Black, n.o.s.",1539,20,0,20
+2480,Papineau,Black,1327,85,45,40
+2480,Papineau,"Black, n.o.s.",1539,0,0,0
+2481,Gatineau,Black,1327,16670,8330,8345
+2481,Gatineau,"Black, n.o.s.",1539,265,120,145
+2482,Les Collines-de-l'Outaouais,Black,1327,300,160,135
+2482,Les Collines-de-l'Outaouais,"Black, n.o.s.",1539,10,10,0
+2483,La Vallée-de-la-Gatineau,Black,1327,75,45,25
+2483,La Vallée-de-la-Gatineau,"Black, n.o.s.",1539,0,0,0
+2484,Pontiac,Black,1327,20,20,0
+2484,Pontiac,"Black, n.o.s.",1539,0,0,0
+2485,Témiscamingue,Black,1327,50,35,20
+2485,Témiscamingue,"Black, n.o.s.",1539,0,10,0
+2486,Rouyn-Noranda,Black,1327,370,175,195
+2486,Rouyn-Noranda,"Black, n.o.s.",1539,0,0,0
+2487,Abitibi-Ouest,Black,1327,15,10,0
+2487,Abitibi-Ouest,"Black, n.o.s.",1539,0,0,0
+2488,Abitibi,Black,1327,45,15,25
+2488,Abitibi,"Black, n.o.s.",1539,0,0,0
+2489,La Vallée-de-l'Or,Black,1327,375,160,220
+2489,La Vallée-de-l'Or,"Black, n.o.s.",1539,0,0,0
+2490,La Tuque,Black,1327,60,25,40
+2490,La Tuque,"Black, n.o.s.",1539,0,0,0
+2491,Le Domaine-du-Roy,Black,1327,90,45,45
+2491,Le Domaine-du-Roy,"Black, n.o.s.",1539,0,0,0
+2492,Maria-Chapdelaine,Black,1327,75,40,35
+2492,Maria-Chapdelaine,"Black, n.o.s.",1539,0,0,0
+2493,Lac-Saint-Jean-Est,Black,1327,160,60,105
+2493,Lac-Saint-Jean-Est,"Black, n.o.s.",1539,0,0,0
+2494,Le Saguenay-et-son-Fjord,Black,1327,675,355,315
+2494,Le Saguenay-et-son-Fjord,"Black, n.o.s.",1539,55,25,25
+2495,La Haute-Côte-Nord,Black,1327,0,0,0
+2495,La Haute-Côte-Nord,"Black, n.o.s.",1539,0,0,0
+2496,Manicouagan,Black,1327,175,70,105
+2496,Manicouagan,"Black, n.o.s.",1539,0,0,0
+2497,Sept-Rivières--Caniapiscau,Black,1327,175,80,90
+2497,Sept-Rivières--Caniapiscau,"Black, n.o.s.",1539,0,0,0
+2498,Minganie--Le Golfe-du-Saint-Laurent,Black,1327,25,0,15
+2498,Minganie--Le Golfe-du-Saint-Laurent,"Black, n.o.s.",1539,0,0,0
+2499,Nord-du-Québec,Black,1327,260,120,135
+2499,Nord-du-Québec,"Black, n.o.s.",1539,10,0,0
+3501,"Stormont, Dundas and Glengarry",Black,1327,690,330,365
+3501,"Stormont, Dundas and Glengarry","Black, n.o.s.",1539,55,40,20
+3502,Prescott and Russell,Black,1327,1110,500,605
+3502,Prescott and Russell,"Black, n.o.s.",1539,30,10,20
+3506,Ottawa,Black,1327,60205,28190,32020
+3506,Ottawa,"Black, n.o.s.",1539,1160,460,695
+3507,Leeds and Grenville,Black,1327,365,165,200
+3507,Leeds and Grenville,"Black, n.o.s.",1539,10,0,0
+3509,Lanark,Black,1327,320,155,165
+3509,Lanark,"Black, n.o.s.",1539,20,10,10
+3510,Frontenac,Black,1327,1850,980,875
+3510,Frontenac,"Black, n.o.s.",1539,70,30,40
+3511,Lennox and Addington,Black,1327,205,105,100
+3511,Lennox and Addington,"Black, n.o.s.",1539,15,10,10
+3512,Hastings,Black,1327,870,525,340
+3512,Hastings,"Black, n.o.s.",1539,55,25,35
+3513,Prince Edward,Black,1327,145,75,65
+3513,Prince Edward,"Black, n.o.s.",1539,0,0,0
+3514,Northumberland,Black,1327,835,440,390
+3514,Northumberland,"Black, n.o.s.",1539,15,10,10
+3515,Peterborough,Black,1327,1005,490,520
+3515,Peterborough,"Black, n.o.s.",1539,40,15,30
+3516,Kawartha Lakes,Black,1327,280,145,135
+3516,Kawartha Lakes,"Black, n.o.s.",1539,10,0,10
+3518,Durham,Black,1327,51380,24385,27000
+3518,Durham,"Black, n.o.s.",1539,1585,790,790
+3519,York,Black,1327,27775,13380,14390
+3519,York,"Black, n.o.s.",1539,695,300,395
+3520,Toronto,Black,1327,239850,109870,129985
+3520,Toronto,"Black, n.o.s.",1539,6535,2745,3790
+3521,Peel,Black,1327,131060,60985,70075
+3521,Peel,"Black, n.o.s.",1539,2525,1115,1410
+3522,Dufferin,Black,1327,1595,775,825
+3522,Dufferin,"Black, n.o.s.",1539,25,10,20
+3523,Wellington,Black,1327,3280,1730,1555
+3523,Wellington,"Black, n.o.s.",1539,135,55,75
+3524,Halton,Black,1327,15230,7365,7860
+3524,Halton,"Black, n.o.s.",1539,395,180,210
+3525,Hamilton,Black,1327,20245,9920,10325
+3525,Hamilton,"Black, n.o.s.",1539,725,350,375
+3526,Niagara,Black,1327,7970,4035,3930
+3526,Niagara,"Black, n.o.s.",1539,335,185,145
+3528,Haldimand-Norfolk,Black,1327,800,475,320
+3528,Haldimand-Norfolk,"Black, n.o.s.",1539,55,35,25
+3529,Brant,Black,1327,2230,1165,1065
+3529,Brant,"Black, n.o.s.",1539,125,35,85
+3530,Waterloo,Black,1327,15135,7805,7325
+3530,Waterloo,"Black, n.o.s.",1539,350,140,210
+3531,Perth,Black,1327,550,305,245
+3531,Perth,"Black, n.o.s.",1539,20,10,10
+3532,Oxford,Black,1327,935,520,410
+3532,Oxford,"Black, n.o.s.",1539,20,15,0
+3534,Elgin,Black,1327,610,325,290
+3534,Elgin,"Black, n.o.s.",1539,30,10,20
+3536,Chatham-Kent,Black,1327,2125,1200,925
+3536,Chatham-Kent,"Black, n.o.s.",1539,170,110,65
+3537,Essex,Black,1327,13120,6475,6645
+3537,Essex,"Black, n.o.s.",1539,1015,480,535
+3538,Lambton,Black,1327,1250,665,580
+3538,Lambton,"Black, n.o.s.",1539,95,55,45
+3539,Middlesex,Black,1327,11595,5945,5650
+3539,Middlesex,"Black, n.o.s.",1539,405,205,195
+3540,Huron,Black,1327,160,85,75
+3540,Huron,"Black, n.o.s.",1539,10,0,0
+3541,Bruce,Black,1327,315,210,105
+3541,Bruce,"Black, n.o.s.",1539,10,0,10
+3542,Grey,Black,1327,435,205,225
+3542,Grey,"Black, n.o.s.",1539,70,15,55
+3543,Simcoe,Black,1327,7150,3640,3510
+3543,Simcoe,"Black, n.o.s.",1539,245,115,130
+3544,Muskoka,Black,1327,305,160,155
+3544,Muskoka,"Black, n.o.s.",1539,15,10,0
+3546,Haliburton,Black,1327,60,25,35
+3546,Haliburton,"Black, n.o.s.",1539,10,0,10
+3547,Renfrew,Black,1327,530,280,250
+3547,Renfrew,"Black, n.o.s.",1539,30,25,10
+3548,Nipissing,Black,1327,390,210,185
+3548,Nipissing,"Black, n.o.s.",1539,20,10,10
+3549,Parry Sound,Black,1327,150,80,70
+3549,Parry Sound,"Black, n.o.s.",1539,10,0,0
+3551,Manitoulin,Black,1327,55,30,20
+3551,Manitoulin,"Black, n.o.s.",1539,20,10,10
+3552,Sudbury,Black,1327,40,30,15
+3552,Sudbury,"Black, n.o.s.",1539,15,0,10
+3553,Greater Sudbury / Grand Sudbury,Black,1327,1455,780,675
+3553,Greater Sudbury / Grand Sudbury,"Black, n.o.s.",1539,70,15,55
+3554,Timiskaming,Black,1327,125,55,70
+3554,Timiskaming,"Black, n.o.s.",1539,25,15,10
+3556,Cochrane,Black,1327,275,145,125
+3556,Cochrane,"Black, n.o.s.",1539,10,0,10
+3557,Algoma,Black,1327,675,345,330
+3557,Algoma,"Black, n.o.s.",1539,65,30,35
+3558,Thunder Bay,Black,1327,745,425,320
+3558,Thunder Bay,"Black, n.o.s.",1539,30,20,10
+3559,Rainy River,Black,1327,55,25,30
+3559,Rainy River,"Black, n.o.s.",1539,10,0,10
+3560,Kenora,Black,1327,175,110,65
+3560,Kenora,"Black, n.o.s.",1539,10,0,0
+4601,Division No. 1,Black,1327,90,45,40
+4601,Division No. 1,"Black, n.o.s.",1539,0,0,0
+4602,Division No. 2,Black,1327,625,320,310
+4602,Division No. 2,"Black, n.o.s.",1539,35,15,20
+4603,Division No. 3,Black,1327,240,180,55
+4603,Division No. 3,"Black, n.o.s.",1539,25,15,15
+4604,Division No. 4,Black,1327,15,10,10
+4604,Division No. 4,"Black, n.o.s.",1539,0,0,0
+4605,Division No. 5,Black,1327,30,20,15
+4605,Division No. 5,"Black, n.o.s.",1539,0,0,0
+4606,Division No. 6,Black,1327,40,30,15
+4606,Division No. 6,"Black, n.o.s.",1539,0,0,0
+4607,Division No. 7,Black,1327,1095,630,465
+4607,Division No. 7,"Black, n.o.s.",1539,20,15,10
+4608,Division No. 8,Black,1327,20,10,10
+4608,Division No. 8,"Black, n.o.s.",1539,10,10,0
+4609,Division No. 9,Black,1327,150,85,60
+4609,Division No. 9,"Black, n.o.s.",1539,0,0,0
+4610,Division No. 10,Black,1327,65,45,20
+4610,Division No. 10,"Black, n.o.s.",1539,0,0,0
+4611,Division No. 11,Black,1327,26900,13870,13030
+4611,Division No. 11,"Black, n.o.s.",1539,650,335,310
+4612,Division No. 12,Black,1327,150,85,60
+4612,Division No. 12,"Black, n.o.s.",1539,10,0,0
+4613,Division No. 13,Black,1327,205,110,100
+4613,Division No. 13,"Black, n.o.s.",1539,10,10,10
+4614,Division No. 14,Black,1327,30,10,25
+4614,Division No. 14,"Black, n.o.s.",1539,10,0,10
+4615,Division No. 15,Black,1327,85,45,40
+4615,Division No. 15,"Black, n.o.s.",1539,0,0,0
+4616,Division No. 16,Black,1327,30,15,15
+4616,Division No. 16,"Black, n.o.s.",1539,0,0,0
+4617,Division No. 17,Black,1327,25,10,20
+4617,Division No. 17,"Black, n.o.s.",1539,15,10,0
+4618,Division No. 18,Black,1327,65,20,45
+4618,Division No. 18,"Black, n.o.s.",1539,0,0,0
+4619,Division No. 19,Black,1327,10,0,10
+4619,Division No. 19,"Black, n.o.s.",1539,10,10,0
+4620,Division No. 20,Black,1327,20,15,10
+4620,Division No. 20,"Black, n.o.s.",1539,0,0,0
+4621,Division No. 21,Black,1327,105,55,50
+4621,Division No. 21,"Black, n.o.s.",1539,0,0,10
+4622,Division No. 22,Black,1327,295,150,150
+4622,Division No. 22,"Black, n.o.s.",1539,25,10,20
+4623,Division No. 23,Black,1327,40,30,15
+4623,Division No. 23,"Black, n.o.s.",1539,0,0,0
+4701,Division No. 1,Black,1327,165,85,85
+4701,Division No. 1,"Black, n.o.s.",1539,0,0,0
+4702,Division No. 2,Black,1327,190,90,100
+4702,Division No. 2,"Black, n.o.s.",1539,15,10,10
+4703,Division No. 3,Black,1327,60,35,25
+4703,Division No. 3,"Black, n.o.s.",1539,0,0,0
+4704,Division No. 4,Black,1327,15,15,10
+4704,Division No. 4,"Black, n.o.s.",1539,0,0,0
+4705,Division No. 5,Black,1327,110,65,45
+4705,Division No. 5,"Black, n.o.s.",1539,10,15,0
+4706,Division No. 6,Black,1327,6510,3405,3105
+4706,Division No. 6,"Black, n.o.s.",1539,140,75,70
+4707,Division No. 7,Black,1327,480,230,250
+4707,Division No. 7,"Black, n.o.s.",1539,10,10,10
+4708,Division No. 8,Black,1327,90,60,30
+4708,Division No. 8,"Black, n.o.s.",1539,10,0,10
+4709,Division No. 9,Black,1327,245,85,165
+4709,Division No. 9,"Black, n.o.s.",1539,0,0,0
+4710,Division No. 10,Black,1327,25,10,10
+4710,Division No. 10,"Black, n.o.s.",1539,0,0,0
+4711,Division No. 11,Black,1327,5645,2970,2680
+4711,Division No. 11,"Black, n.o.s.",1539,95,50,45
+4712,Division No. 12,Black,1327,130,85,40
+4712,Division No. 12,"Black, n.o.s.",1539,10,10,10
+4713,Division No. 13,Black,1327,60,25,35
+4713,Division No. 13,"Black, n.o.s.",1539,0,0,0
+4714,Division No. 14,Black,1327,120,60,60
+4714,Division No. 14,"Black, n.o.s.",1539,0,0,0
+4715,Division No. 15,Black,1327,685,395,285
+4715,Division No. 15,"Black, n.o.s.",1539,30,25,10
+4716,Division No. 16,Black,1327,75,45,35
+4716,Division No. 16,"Black, n.o.s.",1539,0,0,0
+4717,Division No. 17,Black,1327,245,145,95
+4717,Division No. 17,"Black, n.o.s.",1539,10,10,10
+4718,Division No. 18,Black,1327,75,50,30
+4718,Division No. 18,"Black, n.o.s.",1539,10,0,0
+4801,Division No. 1,Black,1327,925,500,420
+4801,Division No. 1,"Black, n.o.s.",1539,25,20,0
+4802,Division No. 2,Black,1327,3985,2240,1745
+4802,Division No. 2,"Black, n.o.s.",1539,30,0,20
+4803,Division No. 3,Black,1327,45,25,20
+4803,Division No. 3,"Black, n.o.s.",1539,0,0,0
+4804,Division No. 4,Black,1327,10,10,0
+4804,Division No. 4,"Black, n.o.s.",1539,10,0,10
+4805,Division No. 5,Black,1327,230,135,95
+4805,Division No. 5,"Black, n.o.s.",1539,10,10,10
+4806,Division No. 6,Black,1327,54905,28140,26765
+4806,Division No. 6,"Black, n.o.s.",1539,935,435,500
+4807,Division No. 7,Black,1327,230,110,120
+4807,Division No. 7,"Black, n.o.s.",1539,10,0,0
+4808,Division No. 8,Black,1327,2455,1205,1255
+4808,Division No. 8,"Black, n.o.s.",1539,85,45,45
+4809,Division No. 9,Black,1327,50,15,30
+4809,Division No. 9,"Black, n.o.s.",1539,0,0,0
+4810,Division No. 10,Black,1327,750,410,345
+4810,Division No. 10,"Black, n.o.s.",1539,35,0,35
+4811,Division No. 11,Black,1327,58130,29860,28270
+4811,Division No. 11,"Black, n.o.s.",1539,1235,615,620
+4812,Division No. 12,Black,1327,675,360,315
+4812,Division No. 12,"Black, n.o.s.",1539,35,15,25
+4813,Division No. 13,Black,1327,400,215,185
+4813,Division No. 13,"Black, n.o.s.",1539,20,10,10
+4814,Division No. 14,Black,1327,235,135,105
+4814,Division No. 14,"Black, n.o.s.",1539,0,0,0
+4815,Division No. 15,Black,1327,185,90,100
+4815,Division No. 15,"Black, n.o.s.",1539,0,0,0
+4816,Division No. 16,Black,1327,4175,2415,1765
+4816,Division No. 16,"Black, n.o.s.",1539,30,25,0
+4817,Division No. 17,Black,1327,300,135,165
+4817,Division No. 17,"Black, n.o.s.",1539,35,20,20
+4818,Division No. 18,Black,1327,60,35,25
+4818,Division No. 18,"Black, n.o.s.",1539,0,0,0
+4819,Division No. 19,Black,1327,1645,920,730
+4819,Division No. 19,"Black, n.o.s.",1539,20,10,20
+5901,East Kootenay,Black,1327,305,180,125
+5901,East Kootenay,"Black, n.o.s.",1539,70,40,25
+5903,Central Kootenay,Black,1327,230,115,115
+5903,Central Kootenay,"Black, n.o.s.",1539,20,0,10
+5905,Kootenay Boundary,Black,1327,170,120,55
+5905,Kootenay Boundary,"Black, n.o.s.",1539,10,0,10
+5907,Okanagan-Similkameen,Black,1327,240,80,155
+5907,Okanagan-Similkameen,"Black, n.o.s.",1539,65,15,45
+5909,Fraser Valley,Black,1327,2495,1255,1240
+5909,Fraser Valley,"Black, n.o.s.",1539,195,85,115
+5915,Greater Vancouver,Black,1327,29830,15460,14375
+5915,Greater Vancouver,"Black, n.o.s.",1539,1460,750,710
+5917,Capital,Black,1327,3535,1845,1690
+5917,Capital,"Black, n.o.s.",1539,225,115,115
+5919,Cowichan Valley,Black,1327,305,145,160
+5919,Cowichan Valley,"Black, n.o.s.",1539,30,15,20
+5921,Nanaimo,Black,1327,950,500,445
+5921,Nanaimo,"Black, n.o.s.",1539,60,20,40
+5923,Alberni-Clayoquot,Black,1327,90,20,70
+5923,Alberni-Clayoquot,"Black, n.o.s.",1539,0,0,0
+5924,Strathcona,Black,1327,165,70,95
+5924,Strathcona,"Black, n.o.s.",1539,40,20,20
+5926,Comox Valley,Black,1327,320,165,160
+5926,Comox Valley,"Black, n.o.s.",1539,20,0,15
+5927,Powell River,Black,1327,85,50,35
+5927,Powell River,"Black, n.o.s.",1539,0,0,0
+5929,Sunshine Coast,Black,1327,170,80,95
+5929,Sunshine Coast,"Black, n.o.s.",1539,25,15,10
+5931,Squamish-Lillooet,Black,1327,180,80,100
+5931,Squamish-Lillooet,"Black, n.o.s.",1539,30,0,25
+5933,Thompson-Nicola,Black,1327,700,385,320
+5933,Thompson-Nicola,"Black, n.o.s.",1539,90,55,35
+5935,Central Okanagan,Black,1327,1255,655,600
+5935,Central Okanagan,"Black, n.o.s.",1539,80,40,40
+5937,North Okanagan,Black,1327,205,120,85
+5937,North Okanagan,"Black, n.o.s.",1539,75,40,40
+5939,Columbia-Shuswap,Black,1327,175,90,85
+5939,Columbia-Shuswap,"Black, n.o.s.",1539,0,10,0
+5941,Cariboo,Black,1327,165,45,120
+5941,Cariboo,"Black, n.o.s.",1539,15,10,10
+5943,Mount Waddington,Black,1327,80,55,30
+5943,Mount Waddington,"Black, n.o.s.",1539,20,10,10
+5945,Central Coast,Black,1327,0,0,10
+5945,Central Coast,"Black, n.o.s.",1539,0,0,0
+5947,Skeena-Queen Charlotte,Black,1327,75,25,50
+5947,Skeena-Queen Charlotte,"Black, n.o.s.",1539,20,15,10
+5949,Kitimat-Stikine,Black,1327,210,110,100
+5949,Kitimat-Stikine,"Black, n.o.s.",1539,15,10,0
+5951,Bulkley-Nechako,Black,1327,190,115,75
+5951,Bulkley-Nechako,"Black, n.o.s.",1539,15,0,10
+5953,Fraser-Fort George,Black,1327,755,350,405
+5953,Fraser-Fort George,"Black, n.o.s.",1539,45,20,25
+5955,Peace River,Black,1327,580,320,250
+5955,Peace River,"Black, n.o.s.",1539,30,10,20
+5957,Stikine,Black,1327,0,0,0
+5957,Stikine,"Black, n.o.s.",1539,0,0,0
+5959,Northern Rockies,Black,1327,35,10,30
+5959,Northern Rockies,"Black, n.o.s.",1539,0,0,0
+6001,Yukon,Black,1327,265,120,145
+6001,Yukon,"Black, n.o.s.",1539,10,0,10
+6101,Region 1,Black,1327,50,35,15
+6101,Region 1,"Black, n.o.s.",1539,10,0,10
+6102,Region 2,Black,1327,15,10,10
+6102,Region 2,"Black, n.o.s.",1539,0,0,0
+6103,Region 3,Black,1327,10,0,0
+6103,Region 3,"Black, n.o.s.",1539,0,0,0
+6104,Region 4,Black,1327,15,10,10
+6104,Region 4,"Black, n.o.s.",1539,10,0,0
+6105,Region 5,Black,1327,60,35,30
+6105,Region 5,"Black, n.o.s.",1539,10,10,10
+6106,Region 6,Black,1327,605,340,270
+6106,Region 6,"Black, n.o.s.",1539,35,20,15
+6204,Baffin,Black,1327,260,150,115
+6204,Baffin,"Black, n.o.s.",1539,25,15,10
+6205,Keewatin,Black,1327,40,15,20
+6205,Keewatin,"Black, n.o.s.",1539,15,0,10
+6208,Kitikmeot,Black,1327,25,15,10
+6208,Kitikmeot,"Black, n.o.s.",1539,10,0,10
